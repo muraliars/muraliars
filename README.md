@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muraliars
-- 👀 I’m interested in Sql,java,Html,css 
-- 🌱 I’m currently learning ...sql,java
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning ...JS,Angular JS
 - 💞️ 
 - 📫 How to reach me ...
 
